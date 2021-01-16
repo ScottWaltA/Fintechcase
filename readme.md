@@ -4,7 +4,7 @@
     * What is the prognosis for this company? Where do they expect to be in the future?
 
   # Case Study Proposal 
-  ## **Morning Stars**
+  ## **Morning Star**
   **Scott and Will**
 
   **What is the background of your company? What do they do? Who are their competitors?** 
