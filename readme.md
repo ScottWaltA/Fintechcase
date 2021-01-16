@@ -15,7 +15,7 @@
 
   **How does this company use technology to their advantage? Why are they considered a FinTech company?**
 
-  * Orginally morning stars used books, but now they have software that can be installed on local computer or surver. They send out monthly report on hard discs for updates in late 90s. 
+  * Orginally morning stars used books, but now they have software that can be installed on local computer or server. They send out monthly report on hard discs for updates in late 90s. 
   * Now its all on websites and apps. Mutual funds and stocks are updated once a day. Stocks and ETFs are updated stimulusly with the market.
   * Morning star's star system has a very complex formula. They are generally accepted as stock rating. One the hand, they have delay on their rating updates. It focuses on information, we can't trade with their platform.
 
